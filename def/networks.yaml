@@ -116,6 +116,7 @@ networks:
   GOOGLE_DNS:
     values:
     - address: 8.8.8.8/32
+    - address: 8.8.4.4/32
   BANK_OF_COMPANY:
     values:
       - address: 9.1.2.4/32
